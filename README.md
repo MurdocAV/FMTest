@@ -9,7 +9,8 @@ Frameworks, Languages and Technologies:
 - CSS 3 and JS
 
 How they were used:
-React - Used different components to split text boxes from Material U.I. Component API's (source: https://material-ui.com/).
+
+Used different components to split text boxes from Material U.I. Component API's (source: https://material-ui.com/).
 Using customized inputs to provide an aesthetic simmilar to Facebook, NZ Govt's Real Me, and Google's Log in. Redux for simple ad hoc data handling which would be turned into a SQL database for live production use
 
 --> 21 August 2019: Didn't get the job :'(
